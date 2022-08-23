@@ -9,7 +9,7 @@ void draw(){
   ellipse(200, 200, 100, 100);
   ellipse(150, 240, 40, 20);
   ellipse(250, 240, 40, 20);
-  // cup
+  // handle and cup
   fill(255, 192, 203);
   ellipse(300, 280, 50, 50);
   fill(203, 195, 227);
