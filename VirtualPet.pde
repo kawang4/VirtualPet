@@ -28,9 +28,11 @@ void draw(){
   //nose
   fill(0, 0, 0);
   triangle(190, 225, 210, 225, 200, 240);
-  //mouth
+  //mouth and cheeks
   fill(255, 192, 203);
   ellipse(200, 245, 5, 5);
+  ellipse(170, 230, 20, 10);
+  ellipse(230, 230, 20, 10);
  //ears
   fill(58.8, 29.4, 0);
   triangle(180, 160, 160, 140, 140, 190);
